@@ -22,3 +22,7 @@ firebase emulators:start --only firestore
 ## エミュ内でのパスワードの入れ方
 `adb shell input text 'パスワード'`
 - 別ターミナルを起動して行う
+## エミュレータのリセットの仕方
+```shell
+adb shell pm clear com.example.task_logging_app
+```
