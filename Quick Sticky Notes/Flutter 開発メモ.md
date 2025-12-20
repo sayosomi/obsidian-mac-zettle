@@ -26,3 +26,4 @@ firebase emulators:start --only firestore
 ```shell
 adb shell pm clear com.example.task_logging_app
 ```
+起動中に別のターミナルで行う
