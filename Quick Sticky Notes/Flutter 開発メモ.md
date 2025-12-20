@@ -10,10 +10,13 @@ modified: 2025-12-20T14:44:07Z
 ```shell
 flutter clean
 flutter pub get
-flutter run -d emulator-5554 \
-  --dart-define=USE_FIRESTORE_EMULATOR=true \
+flutter run -d emulator-5554
+  --dart- define=USE_FIRESTORE_EMULATOR=true \
   --dart-define=FIRESTORE_EMULATOR_HOST=10.0.2.2 \
-  --dart-define=FIRESTORE_EMULATOR_PORT=8080
+  --dart-define=FIRESTORE_EMULATOR_PORT=8080 \
+  --dart-define=USE_FIREBASE_AUTH_EMULATOR=true \
+  --dart-define=FIREBASE_AUTH_EMULATOR_HOST=10.0.2.2 \
+  --dart-define=FIREBASE_AUTH_EMULATOR_PORT=9099
 ```
 別ターミナルでfirestoreも起動
 ```
