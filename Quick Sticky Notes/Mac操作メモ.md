@@ -1,12 +1,13 @@
 ---
 color: emerald
 created: 2025-12-20T13:35:41Z
-modified: 2025-12-20T14:26:45Z
+modified: 2025-12-20T14:40:03Z
 ---
 # キーの違い
-⌘ = 
-=
-=
+- `⌘` = Win
+- `⇧` = Shift
+- `⌥` = Alt
+- `Ctrl`は`Ctrl`なので混乱する
 
 # Finder
 ## パスをコピー
