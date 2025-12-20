@@ -1,13 +1,24 @@
 ---
 color: citrus
 created: 2025-12-20T11:59:01Z
-modified: 2025-12-20T13:32:55Z
+modified: 2025-12-20T14:44:07Z
 ---
-## 開発中の機能名
-focus-lane-task-logger
-
-## Flutter動作確認コマンド
-1. まず `flutter devices` で接続中のエミュレータ/デバイス一覧を確認。
-2. `flutter run -d emulator-5554` でビルド＆起動。
-3. デフォルト（最初の接続デバイス）を使うなら `flutter run` だけでもOK。
-4. 一度ビルドした後でホットリロードしたければ、ターミナルで `r`、リスタートは `R`。
+# 開発中の機能名
+**focus-lane-task-logger**
+[tasks.md](file:///Users/yosomi/Code/task-logging-app/.kiro/specs/focus-lane-task-logger/tasks.md)
+## Flutterエミュレータ起動
+```shell
+flutter clean
+flutter pub get
+flutter run -d emulator-5554 \
+  --dart-define=USE_FIRESTORE_EMULATOR=true \
+  --dart-define=FIRESTORE_EMULATOR_HOST=10.0.2.2 \
+  --dart-define=FIRESTORE_EMULATOR_PORT=8080
+```
+別ターミナルでfirestoreも起動
+```
+firebase emulators:start --only firestore
+```
+## エミュ内でのパスワードの入れ方
+`adb shell input text 'パスワード'`
+- 別ターミナルを起動して行う
