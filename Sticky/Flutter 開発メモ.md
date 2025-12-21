@@ -34,3 +34,8 @@ firebase emulators:start --only auth,firestore
 adb shell pm clear com.example.task_logging_app
 ```
 起動中に別のターミナルで行う
+## 整形
+```
+dart format lib test
+```
+リポジトリのルートで （または必要なサブディレクトリ）実行すると、Dartfmt 準拠で自動整形されます。
