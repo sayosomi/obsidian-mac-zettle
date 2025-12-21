@@ -7,7 +7,9 @@ modified: 2025-12-20T14:44:07Z
 ---
 Flutter 
 ## 開発中の機能名
+```
 focus-lane-task-logger
+```
 [tasks.md](file:///Users/yosomi/Code/task-logging-app/.kiro/specs/focus-lane-task-logger/tasks.md)
 ## Flutterエミュレータ起動
 ```shell
@@ -39,3 +41,7 @@ adb shell pm clear com.example.task_logging_app
 dart format lib test
 ```
 リポジトリのルートで （または必要なサブディレクトリ）実行すると、Dartfmt 準拠で自動整形されます。
+## いつもの
+```
+testとanalyzeとbuildを実行し、エラーが出てないか確認。修正後、再度確認して全部直ってたらcommit
+```
