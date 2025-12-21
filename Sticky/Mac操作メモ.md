@@ -1,5 +1,7 @@
 ---
-color: emerald
+cssclasses:
+  - sticky
+  - pal-sage
 created: 2025-12-20T13:35:41Z
 modified: 2025-12-20T15:01:22Z
 ---

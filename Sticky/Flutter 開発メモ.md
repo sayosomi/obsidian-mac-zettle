@@ -1,5 +1,7 @@
 ---
-color: citrus
+cssclasses:
+  - sticky
+  - pal-sand
 created: 2025-12-20T11:59:01Z
 modified: 2025-12-20T14:44:07Z
 ---
