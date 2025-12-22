@@ -22,7 +22,6 @@ flutter run -d emulator-5554 \
 --dart-define=USE_FIRESTORE_EMULATOR=true \
 --dart-define=FIRESTORE_EMULATOR_HOST=10.0.2.2 \
 --dart-define=FIRESTORE_EMULATOR_PORT=8080 \
---dart-
 ```
 別ターミナルでfirestoreも起動
 ```
