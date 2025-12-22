@@ -46,3 +46,8 @@ dart format lib test
 testとanalyzeとbuildを実行しエラーが出てないか確認
 修正後、再度確認して全部直ってたらcommit massage を書いて
 ```
+
+## todo
+- [ ] 終了レーンを押したときの動作を変更する
+- [ ] 終了状態を解除するUI
+- [ ] running状態のタスクがあるときは、起動時にフォーカスドロワーを表示する
