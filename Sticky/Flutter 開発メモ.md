@@ -43,7 +43,8 @@ dart format lib test
 ```
 testとanalyzeとbuildを実行しエラーを確認
 修正後、再確認して全部直ってたらcommit
-codexのgit実行を許可する
+codexの
+git実行を許可する
 ```
 
 ## todo
