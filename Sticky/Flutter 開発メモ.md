@@ -43,6 +43,7 @@ dart format lib test
 ```
 testとanalyzeとbuildを実行しエラーが出てないか確認
 修正後、再確認して全部直ってたらcommit
+必要なら許可を求めて
 ```
 
 ## todo
