@@ -43,7 +43,7 @@ dart format lib test
 ```
 testとanalyzeとbuildを実行しエラーを確認
 修正後、再確認して全部直ってたらcommit
-必要なら許可を求めて
+私に許可を求めて
 ```
 
 ## todo
