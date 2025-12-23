@@ -7,7 +7,7 @@ modified: 2025-12-20T14:44:07Z
 ---
 ## 開発中の機能名
 ```
-log-tab-history-range
+log-time-edit
 ```
 [tasks.md](file:///Users/yosomi/Code/task-logging-app/.kiro/specs/focus-lane-task-logger/tasks.md)
 ## Flutterエミュレータ起動
@@ -51,6 +51,7 @@ testとanalyzeとbuildを実行しエラーを確認
 - [ ] ログの編集
 - [ ] 未着手タスクのみレーンに表示できる
 - [ ] 予定開始時刻をプロトタイプとレーンに実装
+- [ ] 見積もり時間と終了予測時刻を実装
 - [ ] 締め作業（見積もり時刻、仮プロトタイプ実装）
 	- 仮プロトタイプは期日（デフォルト当日）の締め作業時までにログが作られていなければ削除
 - [ ] Hive導入でローカル対応
