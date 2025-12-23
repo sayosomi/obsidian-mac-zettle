@@ -42,7 +42,7 @@ dart format lib test
 ## いつもの
 ```
 testとanalyzeとbuildを実行しエラーが出てないか確認
-修正後、再度確認して全部直ってたらcommit
+修正後、再確認して全部直ってたらcommit
 ```
 
 ## todo
