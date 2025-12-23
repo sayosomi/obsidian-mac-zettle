@@ -41,7 +41,7 @@ dart format lib test
 リポジトリのルートで （または必要なサブディレクトリ）実行すると、Dartfmt 準拠で自動整形されます。
 ## いつもの
 ```
-testとanalyzeとbuildを実行しエラーが出てないか確認
+testとanalyzeとbuildを実行しエラーを確認
 修正後、再確認して全部直ってたらcommit
 必要なら許可を求めて
 ```
