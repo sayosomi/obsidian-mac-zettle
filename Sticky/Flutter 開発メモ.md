@@ -44,7 +44,7 @@ dart format lib test
 ## いつもの
 ```
 testとanalyzeとbuildを実行しエラーを確認
-修正後、再確認して全部直ってたらcommitの許可を求めて
+修
 ```
 
 ## todo
