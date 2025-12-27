@@ -5,6 +5,7 @@ cssclasses:
 created: 2025-12-20T11:59:01+00:00
 modified: 2025-12-24T12:33:29+09:00
 ---
+
 ・
  2.
 # flutter
@@ -47,7 +48,6 @@ dart format lib test
 testとanalyzeとbuildを実行しエラーを確認
 修正後再度確認し、全て直っていたらcommitを求めて
 ```
-
 ## todo
 - [x] 過去ログ表示
 - [x] ログの編集
