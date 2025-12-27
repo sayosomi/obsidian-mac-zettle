@@ -5,7 +5,7 @@ cssclasses:
 created: 2025-12-20T11:59:01+00:00
 modified: 2025-12-24T12:33:29+09:00
 ---
-
+・
  2.
 # flutter
 
@@ -13,7 +13,6 @@ modified: 2025-12-24T12:33:29+09:00
 ```
 planned-start-time
 ```
-[tasks.md](file:///Users/yosomi/Code/task-logging-app/.kiro/specs/focus-lane-task-logger/tasks.md)
 ## Flutterエミュレータ起動
 ```shell
 flutter clean
