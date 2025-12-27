@@ -44,8 +44,7 @@ dart format lib test
 ## いつもの
 ```
 testとanalyzeとbuildを実行しエラーを確認
-修正後、再確認して全部直ってたらcommit
-※codexの機能を用い、git実行の許可を求めること
+修正後、再確認して全部直ってたらcommitの許可を求めて
 ```
 
 ## todo
