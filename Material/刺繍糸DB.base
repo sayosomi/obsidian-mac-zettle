@@ -1,0 +1,23 @@
+filters:
+  and:
+    - file.inFolder("Material")
+    - color
+formulas:
+  fileLink: file.asLink()
+  swatch: 'html("<span style=\"color: " + escapeHTML(color) + ";\">■■■</span>")'
+properties:
+  formula.fileLink:
+    displayName: name
+  formula.swatch:
+    displayName: color
+  color:
+    displayName: code
+views:
+  - type: table
+    name: Material colors
+    order:
+      - formula.fileLink
+      - formula.swatch
+      - color
+    columnSize:
+      formula.fileLink: 137

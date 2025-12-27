@@ -5,12 +5,11 @@ cssclasses:
 created: 2025-12-20T11:59:01+00:00
 modified: 2025-12-24T12:33:29+09:00
 ---
-
 # flutter
 
 ## 開発中の機能名
 ```
-log-time-edit
+planned-start-time
 ```
 [tasks.md](file:///Users/yosomi/Code/task-logging-app/.kiro/specs/focus-lane-task-logger/tasks.md)
 ## Flutterエミュレータ起動
@@ -20,7 +19,7 @@ flutter pub get
 ```
 事前にandroid studioで該当のエミュを起動sておくこと。
 ```
-flutter run -d emulator-5554 \
+flutter run \
 --dart-define=USE_FIRESTORE_EMULATOR=true \
 --dart-define=FIRESTORE_EMULATOR_HOST=10.0.2.2 \
 --dart-define=FIRESTORE_EMULATOR_PORT=8080 \
@@ -46,14 +45,15 @@ dart format lib test
 ```
 testとanalyzeとbuildを実行しエラーを確認
 修正後、再確認して全部直ってたらcommit
-codexのgit実行を許可する
+※codexの機能を用い、git実行の許可を求めること
 ```
 
 ## todo
 - [x] 過去ログ表示
-- [ ] ログの編集
+- [x] ログの編集
 - [ ] 予定開始時刻をプロトタイプとレーンに実装。現在時刻を示す区切り線と自動スクロール
 - [ ] 見積もり時間と終了予測時刻を実装
-- [ ] 締め作業（見積もり時刻、仮プロトタイプ実装）
+- [ ] 締め作業（見積もり時刻、仮プロトタイプ実装
+- [ ] ）
 	- 仮プロトタイプは期日（デフォルト当日）の締め作業時までにログが作られていなければ削除
 - [ ] Hive導入でローカル対応
