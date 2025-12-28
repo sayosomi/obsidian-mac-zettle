@@ -5,7 +5,7 @@ cssclasses:
 created: 2025-12-20T11:59:01+00:00
 modified: 2025-12-24T12:33:29+09:00
 ---
-
+ 
 # flutter
 
 ## 開発中の機能名
@@ -46,6 +46,10 @@ dart format lib test
 testとanalyzeとbuildを実行しエラーを確認
 修正後再度確認し、全て直ったらcommit（詰まったら承認ダイアログを出す）
 ```
+## Andrid エミュレータ上で特定のキーが効かない
+エミュ画面の右側のツールバーから「…」 → settings → generalタブを選択し、以下の項目を設定
+- **Send keyboard shortcuts to → Virtual device**（ショートカットをAndroid側へ送る） 
+- **Enforce keycode forwarding → ON**（キーコードを強制転送）
 ## todo
 - [x] 過去ログ表示
 - [x] ログの編集
