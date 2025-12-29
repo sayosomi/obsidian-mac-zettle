@@ -45,6 +45,9 @@ testとanalyzeとbuildを実行しエラーを確認
 修正後再度確認し、全て直ったらcommit（詰まったら承認ダイアログを出す）
 ```
 
+```
+今のcommitに対しAndroidエミュ上で確認することは？
+```
 ## Andrid エミュレータ上で特定のキーが効かない
 エミュ画面の右側のツールバーから「…」 → settings → generalタブを選択し、以下の項目を設定
 - **Send keyboard shortcuts to → Virtual device**（ショートカットをAndroid側へ送る） 
