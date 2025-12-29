@@ -8,7 +8,7 @@ modified: 2025-12-24T12:33:29+09:00
 /# flutter
 ## 開発中の機能名
 ```
-lane-task-estimates
+log-tab-day-close
 ```
 ## Flutterエミュレータ起動
 ```shell
