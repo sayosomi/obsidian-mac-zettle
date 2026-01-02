@@ -2,29 +2,30 @@
 cssclasses:
   - sticky
   - pal-sand
-created: 2025-12-20T11:59:01+00:00
-modified: 2025-12-24T12:33:29+09:00
 ---
 # flutter
 ## 開発中の機能名
 ```
-log-tab-day-close
+prototype-chained-tasks
 ```
 ## Flutterエミュレータ起動
 ```shell
 flutter clean
 flutter pub get
 ```
-事前にandroid studioで該当のエミュを起動sておくこと。
+事前にandroid studioで該当のエミュを起動しておくこと。
 ```
 flutter run \
---dart-define=USE_FIRESTORE_EMULATOR=true \
---dart-define=FIRESTORE_EMULATOR_HOST=10.0.2.2 \
---dart-define=FIRESTORE_EMULATOR_PORT=8080 \
+  --dart-define=USE_FIRESTORE_EMULATOR=true \
+  --dart-define=FIRESTORE_EMULATOR_HOST=10.0.2.2 \
+  --dart-define=FIRESTORE_EMULATOR_PORT=8080 \
+  --dart-define=USE_FIREBASE_AUTH_EMULATOR=true \
+  --dart-define=FIREBASE_AUTH_EMULATOR_HOST=10.0.2.2 \
+  --dart-define=FIREBASE_AUTH_EMULATOR_PORT=9099
 ```
 別ターミナルでfirestoreも起動
 ```
-firebase emulators:start --only auth,firestore
+firebase emulators:start --only firestore,auth --project task-logging-app-27528
 ```
 ## エミュ内でのパスワードの入れ方
 `adb shell input text 'パスワード'`
@@ -57,7 +58,10 @@ testとanalyzeとbuildを実行しエラーを確認
 - [x] ログの編集
 - [x] 予定開始時刻をプロトタイプとレーンに実装。現在時刻を示す区切り線と自動スクロール
 - [x] 見積もり時間と終了予測時刻を実装
-- [ ] 締め作業（見積もり時刻、仮プロトタイプ実装
-- [ ] ）
-	- 仮プロトタイプは期日（デフォルト当日）の締め作業時までにログが作られていなければ削除
+- [x] 締め作業（見積もり時刻
+- [x] レーンタブの「プロトタイプからタスクを追加」ドロワーからもプロトタイプを追加できるようにして
+- [x] 仮プロトタイプは期日（デフォルト当日）の締め作業時までにログが作られていなければ削除
+- [x] プロトタイプにネクスト要素を追加
+- [ ] オフ日設定と頻度設定の追加
+- [ ] プロトタイプのエクスポート/インポート機能
 - [ ] Hive導入でローカル対応

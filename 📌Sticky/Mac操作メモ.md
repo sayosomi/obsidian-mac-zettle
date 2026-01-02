@@ -2,8 +2,6 @@
 cssclasses:
   - sticky
   - pal-sage
-created: 2025-12-20T13:35:41Z
-modified: 2025-12-20T15:01:22Z
 ---
 # キーの違い
 - `⌘` = Win
@@ -30,5 +28,8 @@ modified: 2025-12-20T15:01:22Z
 Finderのウィンドウからフォルダをターミナルにドラッグするとパスに変換される
 ## テンキーが反応しなくなったら
 `⌘ + control + Q`でロックした後、ロック解除すると治る
-## WindoswのDeleteキーの消し方
+## WindowsのDeleteキーの消し方
  `Fn + delete`
+## Raycastのショートカットキー
+クリップボード履歴 `command + shift + V`
+カラーピッカー `option + control + shift + C`
