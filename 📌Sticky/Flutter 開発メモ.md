@@ -43,7 +43,7 @@ dart format lib test
 ## いつもの
 ```
 testとanalyzeとbuildを実行しエラーを確認
-修正後再度確認し、全て直ったらcommit（詰まったら承認ダイアログを出す）
+修正後再度確認し、全て直ったらcommit（承認ダイアログを出す）
 ```
 
 ```
