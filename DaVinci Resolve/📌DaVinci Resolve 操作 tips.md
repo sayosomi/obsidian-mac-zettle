@@ -31,6 +31,7 @@ tags:
 - [[Track Destination]]
 - [[日本語と英語で2本字幕を入れる]]
 - 音量調整は[[Fairlight]]ページで行う
+- [[Create Timeline backup]]
 
 ## パネル
 
