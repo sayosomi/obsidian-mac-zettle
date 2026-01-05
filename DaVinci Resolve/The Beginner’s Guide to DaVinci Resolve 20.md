@@ -10,3 +10,4 @@ tags:
 [[Relink Media]]
 [[bin]]
 [[メディアプールにある複数のbinの内容を同時に表示する]]
+[[Smart Bin]]
