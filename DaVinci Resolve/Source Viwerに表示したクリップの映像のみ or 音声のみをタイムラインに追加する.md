@@ -7,5 +7,5 @@
 ## キーボード操作
 
 `F12`を押すと、映像も音声も両方入っちゃう。
-入れたくない方の[[Destination Control|トラックヘッダの赤いボタン]]をオフにする。
+入れたくない方の[[Destination Control|トラックヘッダの緑のボタン]]をオフにする。
 [![250](https://i.gyazo.com/5a3adde6238bb541447086f57a867f8b.png)](https://gyazo.com/5a3adde6238bb541447086f57a867f8b)
