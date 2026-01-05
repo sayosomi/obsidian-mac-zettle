@@ -2,7 +2,7 @@
 tags:
   - MOC
 ---
-[[The Beginner’s Guide to DaVinci Resolve 20]]
+[[📌 The Beginner’s Guide to DaVinci Resolve 20]]
 ----
 - メディアプールにドラッグアンドドロップで素材を追加
 - 素材を右クリックして「選択したクリップで新規タイムラインを作成」
