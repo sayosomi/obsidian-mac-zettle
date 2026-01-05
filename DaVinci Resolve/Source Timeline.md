@@ -1,5 +1,6 @@
 [![](https://i.gyazo.com/29f4bdb065789cf3534baabbabfd0dee.png)](https://gyazo.com/29f4bdb065789cf3534baabbabfd0dee)
 [[Source Viewer]]右上の「タイムライン」アイコンを押すと、タイムラインを通常の編集用タイムラインから[[Source Timeline]]に切り換えることができる。
+[[Source Viewer からTimelineにクリップを追加する]]前の仮配置っていう感じ。
 [[Source Viewer]]のタイトルが青くなっていたら、[[Source Timeline]]に切り替わっている。
 
 [![](https://i.gyazo.com/8c5300dcdef59ebbd7dace64177852b8.png)](https://gyazo.com/8c5300dcdef59ebbd7dace64177852b8)
