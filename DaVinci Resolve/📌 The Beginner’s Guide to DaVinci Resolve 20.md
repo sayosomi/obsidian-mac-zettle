@@ -7,11 +7,13 @@ tags:
 
 ## 読書メモ
 
-[[Relink Media]]
-[[メディアプール内のサムネイル表示サイズを変える]]
-[[Bin]]
+[[Media Pool]]
+	[[Bin]]
+[[Media Pool Resize]]
+	[[Smart Bin]]
+	
+	[[Relink Media]]
 [[メディアプールにある複数のbinの内容を同時に表示する]]
-[[Smart Bin]]
 [[Timeline (item)]]
 [[Source Viewer]]
 [[Jog Wheel]]

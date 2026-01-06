@@ -1,7 +1,9 @@
-[![](https://i.gyazo.com/af786fc1683c0f39e7475a405630a5c2.png)](https://gyazo.com/af786fc1683c0f39e7475a405630a5c2)
-ビューワーの再生バーにある`< ● >`ボタン
-クリックしたまま左右にマウスを動かすと、再生ヘッドも動く
+![](https://i.gyazo.com/ce588a5beae627d662464c896cec964d.png)
+[[Viewer]]コントロールの一種。
+「●」をクリックしたままマウスを左右に動かすと、[[playhead|]]の位置も動く
 
-[[逆再生(J)]]
-[[停止(K)]]
-[[再生(L)]]
+## 関連
+
+[[Play Reverse]]
+[[Stop]]
+[[Play Forward]]
