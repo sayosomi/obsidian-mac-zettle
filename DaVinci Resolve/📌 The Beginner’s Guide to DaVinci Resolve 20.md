@@ -9,10 +9,11 @@ tags:
 
 [[Media Pool]]
 	[[Bin]]
-[[Media Pool Resize]]
 	[[Smart Bin]]
-	
+	[[Thumbnails Resize (Media Pool)]]
+    [[List View (Media Pool)]]
 	[[Relink Media]]
+	
 [[メディアプールにある複数のbinの内容を同時に表示する]]
 [[Timeline (item)]]
 [[Source Viewer]]
