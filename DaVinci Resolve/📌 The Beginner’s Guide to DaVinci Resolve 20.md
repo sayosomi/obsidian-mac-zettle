@@ -15,7 +15,7 @@ tags:
 [[Timeline (item)]]
 [[Source Viewer]]
 [[Jog Wheel]]
-[[In点]] [[Out点]]
+[[In Point]] [[Out点]]
 [[Source Timeline]]
 [[メディアプール内で元のファイル名を表示する]]
 [[タイムラインのズームイン・アウト]]
