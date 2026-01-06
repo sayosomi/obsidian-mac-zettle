@@ -1,11 +1,17 @@
-DaVinci Resolveの**タイムライン書き出しファイル**。
-プロジェクト全部ではなく、**特定のタイムラインだけ**をResolve間で移植するための“タイムライン単体”ファイル。
-カラーグレーディング
+---
+Hotkey:
+  - shift
+  - command
+  - I
+---
+![](https://i.gyazo.com/e98f9a9c0c1e1c9fcbfadb9b6406935f.png)
+[[Timeline (Media Pool)]]をエクスポートした際のファイル形式及び拡張子
+DaVinci Resolve Timeline の略。
+[[Timeline (Media Pool)]]を右クリックして読み書きする。
 
-## 書き出し方法
-
-メディアプール内の[[timeline (item)]]を右クリック → タイムライン → 書き出し → DRT
+[[Import Timeline]]
+[[Export Timeline]]
 
 ## 関連
 
-[[drp]]には全タイムラインが入っていて、drtには1本だけっていうのが違いらしいけど、複数のタイムラインがあるっていう状況がよくわからない。 #question
+複数のタイムラインをまとめたファイルは [[DRP]]

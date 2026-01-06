@@ -33,8 +33,8 @@ tags:
 - [[Destination Control]]
 - [[日本語と英語で2本字幕を入れる]]
 - 音量調整は[[Fairlight]]ページで行う
-- [[Create Timeline backup]]
-- [[timeline (item)]]
+- [[Timeline backup]]
+- [[Timeline (Media Pool)]]
 - [[カラーグレーディングのやり方]]
 - 書き出す前にタイムライン解像度を4Kに戻すこと
 - [[Deliver（書き出し）]]

@@ -8,12 +8,12 @@ Menu: View > Toggle Source Timeline
 
 [[Source Viewer]]の表示モードの一種。
 [[Source Viewer]]に加えてTImelineもソースビューモードに切り換える。
-[[Source Viewer]]のタイトルが青くなっていたら、[[Source Timeline]]モードにいるということ。
+[[Source Viewer]]のタイトルが青くなっていたら、[[Source Timeline (Viewer)]]モードにいるということ。
 
-[[Source Timeline]]は閲覧専用で編集はできない。[[Source Viewer]]同様[[In Point]]や[[Out Point]]をマークするのに使う。
+[[Source Timeline (Viewer)]]は閲覧専用で編集はできない。[[Source Viewer]]同様[[In Point]]や[[Out Point]]をマークするのに使う。
 拡大縮小が通常のタイムラインと同じ操作でできるのが強み。
 
 ## 関連
 
-[[Source Clip]]
-[[Source Tape]]
+[[Source Clip (Viewer)]]
+[[Source Tape (Viewer)]]

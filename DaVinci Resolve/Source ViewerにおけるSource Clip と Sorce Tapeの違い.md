@@ -5,4 +5,4 @@
 - 一番左が **Source Clip**：単一のクリップを再生する
 - 真ん中が**Source Tap**：複数のクリップを繋げて再生できる
 	- 試しに複数のクリップをまとめて選択して、[[Source Viewer]]にドラッグしてみるといい
-- 一番右は[[Source Timeline]]
+- 一番右は[[Source Timeline (Viewer)]]

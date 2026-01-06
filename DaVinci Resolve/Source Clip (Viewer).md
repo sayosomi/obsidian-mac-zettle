@@ -8,9 +8,9 @@ Menu: View > Source Clip / Source Tape
 
 [[Source Viewer]]の表示モードの一種。
 単一のクリップのみを再生する。
-Hotkeyは押すたびに[[Source Tape]]モードと切り替え。
+Hotkeyは押すたびに[[Source Tape (Viewer)]]モードと切り替え。
 
 ## 関連
 
-[[Source Tape]]
-[[Source Timeline]]
+[[Source Tape (Viewer)]]
+[[Source Timeline (Viewer)]]
