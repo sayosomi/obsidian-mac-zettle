@@ -1,6 +1,7 @@
 [[Full Extent Zoom (Timeline)]]
 [[Detail Zoom (Timeline)]]
 [[Custom Zoom (TImeline)]]
+[[Zoom to Fit (Timeline)]] ：Hotkeyで使うならこれが一番便利
 
 ## キーボードショートカット
 
