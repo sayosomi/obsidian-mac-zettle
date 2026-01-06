@@ -1,16 +1,6 @@
-## Full Extent Zoom
-
-[![](https://i.gyazo.com/6f44ad8503efc0c46786c563fef19998.png)](https://gyazo.com/6f44ad8503efc0c46786c563fef19998)
-タイムライン全体が画面内に収まるようにズームする
-
-## Detail Zoon
-
-[![](https://i.gyazo.com/57a3a295543bc6872433244f5a31549a.png)](https://gyazo.com/57a3a295543bc6872433244f5a31549a)
-
-## Custom Zoom
-
-[![](https://i.gyazo.com/513f6b027766e6c7f4fad88cabe54def.png)](https://gyazo.com/513f6b027766e6c7f4fad88cabe54def)
-左側のスライダーで倍率を変えられる
+[[Full Extent Zoom (Timeline)]]
+[[Detail Zoom (Timeline)]]
+[[Custom Zoom (TImeline)]]
 
 ## キーボードショートカット
 

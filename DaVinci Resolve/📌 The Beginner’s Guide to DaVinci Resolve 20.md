@@ -33,7 +33,7 @@ tags:
     [[Source Clip (Viewer)]]
     [[Source Tape (Viewer)]]
     [[Source Timeline (Viewer)]]
-[[タイムラインのズームイン・アウト]]
+[[Controlling Timeline Zoom]]
 [[Source Viewer からTimelineにクリップを追加する]]
 	[[Source Viwerに表示したクリップの映像のみ or 音声のみをタイムラインに追加する]]
 	[[Timecode Field]]
