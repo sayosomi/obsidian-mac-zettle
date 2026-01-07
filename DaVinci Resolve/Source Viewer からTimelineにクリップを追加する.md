@@ -4,6 +4,14 @@
 - [[Source Viewer]]からタイムラインビューアに素材をドラッグ・アンド・ドロップして追加する
 - この方法だと挿入方法を選ぶオーバーレイが出る。[[Playhead]]の位置を基準に挿入される
 
+[[Insert (Edit)]]
+[[Overwrite (Edit)]]
+[[Replace (Edit)]]
+[[Place on Top (Edit)]]
+[[Ripple Overwrite (Edit)]]
+[[Fit to Fill (Edit)]]
+[[Append to End of Timeline]]
+
 ## 挿入方法の種別
 
 ### 上書き Overwrite
