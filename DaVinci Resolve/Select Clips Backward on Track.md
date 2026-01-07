@@ -11,8 +11,6 @@ Menu:
 
 > [!tip] 選択中のトラック以外のクリップも選択されてしまう
 
-
-
 ## [[Keyboard Customization]]
 
 ![[Keyboard Customization#Select Clips Backward on Track]]
