@@ -6,4 +6,6 @@ Hotkey:
 Menu:
   - Timeline > Select Clips > Backward on All Tracks
 ---
-[[Backward on Track]]と対になる。
+[[Select Clips Backward on Track]]と対になる。
+
+> [!todo] 要追記

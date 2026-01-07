@@ -7,6 +7,7 @@ tags:
 
 ## 読書メモ
 
+[[Reset UI Layout]]
 [[Media Pool]]
 	[[Bin]]
 	[[Smart Bin]]
@@ -34,6 +35,12 @@ tags:
     [[Source Tape (Viewer)]]
     [[Source Timeline (Viewer)]]
 [[Controlling Timeline Zoom]]
+	[[Full Extent Zoom (Timeline)]]
+	[[Detail Zoom (Timeline)]]
+	[[Custom Zoom (TImeline)]]
+	[[Zoom to Fit (Timeline)]]
+	[[Zoom In (Timeline)]]
+	[[Zoom Out (Timeline)]]
 [[Source Viewer からTimelineにクリップを追加する]]
 	[[Source Viwerに表示したクリップの映像のみ or 音声のみをタイムラインに追加する]]
 	[[Timecode Field]]

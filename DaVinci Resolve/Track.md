@@ -13,3 +13,7 @@ YMM4 でいうレイヤー。
 [[トラックの表示名を変更]]
 [[トラックの高さを変更]]
 [[トラックカラー]]
+[[Select Clips Forward on Track]]
+[[Select Clips Forward on All Tracks]]
+[[Select Clips Backward on Track]]
+[[Select Clips Backward on All tracks]]

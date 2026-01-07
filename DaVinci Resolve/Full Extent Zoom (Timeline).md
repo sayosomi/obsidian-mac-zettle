@@ -7,5 +7,4 @@ Menu:
 [[Controlling Timeline Zoom]]の一種。
 タイムライン全体が画面内に収まるように縮小する。
 
-> [!tip]
-> [[Zoom to Fit (Timeline)]]とほぼほぼ同じ動作。
+> [!tip] [[Zoom to Fit (Timeline)]]とほぼほぼ同じ動作。

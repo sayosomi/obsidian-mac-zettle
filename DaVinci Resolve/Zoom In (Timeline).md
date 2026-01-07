@@ -3,7 +3,8 @@ Hotkey:
   - command
   - ^
 Menu:
+  - View > Zoom > Zoon In
 ---
+[[Controlling Timeline Zoom]]の一種。
 タイムラインを拡大する。
-デフォルトのHotkeyは`command + =`と`command + +（プラス）`の2種類だが、日本語キーボードだとうまく動かないので、[[Keyboard Customization]]で`command + ^`を追加。
-なぜこうしたかというと、「」
+![[Keyboard Customization#Zoom In (Timeline)]]

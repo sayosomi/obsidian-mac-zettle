@@ -16,17 +16,37 @@ Hotkeyの確認、変更ができる。
 - `command + Y` に変更
 - Windows風
 
-### [[Backward on Track]]
+### [[Select Clips Backward on Track]]
 
 - `command + Y` から
 - `command + shift + Y` に変更
 - Redo変更の余波
-- 対になる [[Backward on All tracks]]が `option + command + Y`なのでそれほど違和感はないはず
+
+#### セットになるHotKey
+
+- `Y`: [[Select Clips Forward on Track]]
+- `option + Y`: [[Select Clips Forward on All Tracks]]
+- `option + command + Y`: [[Select Clips Backward on All tracks]]
+
 ### [[Grade Version Add (Color)]]
+
 - `command + Y` から
 - `command + shift + Y` に変更
 - Redo変更の余波
+
 ### [[Grade Version Default (Color)]]
+
 - `command + U` から
 - `command + shift + U` に変更
 - [[Grade Version Add (Color)]] と対になりそうなのでこちらも変更
+
+### [[Zoom In (Timeline)]]
+
+- 既存のHotKey `command + +`, `command + =` に
+- `command + ^` を追加
+- 既存のKeyは日本語キーボードだ実質 `command + shift + ;`, `command + shift + -` となり、押しにくい
+
+#### セットになるHotKey
+
+- `command + -`:  [[Zoom Out (Timeline)]] 
+- キーの位置関係が [[Custom Zoom (TImeline)]] のスライダーと同じなので覚えやすいはず。
