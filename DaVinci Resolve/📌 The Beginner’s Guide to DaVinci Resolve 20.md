@@ -11,6 +11,7 @@ tags:
 [[Media Pool]]
 	[[Bin]]
 	[[Smart Bin]]
+	[[Source Clip (Media Pool)]]
 	[[Thumbnails Resize (Media Pool)]]
     [[List View (Media Pool)]]
 	[[Relink Media]]
@@ -48,3 +49,4 @@ tags:
 [[タイムライン上のクリップを選択]]
 
 [[トランジションがクリップとクリップの間に置けない]]
+[[Match Frame]]

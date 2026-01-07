@@ -1,4 +1,4 @@
-- [[Source Viewer]]からタイムラインに素材をドラッグアンドドロップして追加する
+- [[Source Viewer]]からタイムラインに[[Source Clip (Media Pool)|Source Clip]]をドラッグアンドドロップして追加する
 
 [![](https://i.gyazo.com/995780ecbd56cd85e46b3f10813092b8.png)](https://gyazo.com/995780ecbd56cd85e46b3f10813092b8)
 - [[Source Viewer]]からタイムラインビューアに素材をドラッグ・アンド・ドロップして追加する

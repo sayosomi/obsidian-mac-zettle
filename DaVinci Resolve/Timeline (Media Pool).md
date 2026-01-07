@@ -4,7 +4,7 @@
 素材は参照情報を含むのみで、素材ファイルそのものは保持していない。
 エクスポートした際の拡張子は [[DRT]]
 
-> [!tip] 素材の[[Clip]]と混同しやすい。
+> [!tip] [[Source Clip (Media Pool)|Source Clip]]と混同しやすい。
 > 右下のアイコンで見分けること。
 
 - すべての動画は最初に[[Create New Timeline (Media Pool)]]することから始まる
