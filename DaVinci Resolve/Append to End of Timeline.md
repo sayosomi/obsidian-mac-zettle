@@ -7,3 +7,5 @@ Menu:
 ---
 ## 関連
 [[Place on Top (Edit)]]
+=page("Place on Top (Edit)")["Hotkey"]
+
