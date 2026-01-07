@@ -46,3 +46,5 @@ tags:
 	[[Timecode Field]]
 [[Shuffle Insert edit]]
 [[タイムライン上のクリップを選択]]
+
+[[トランジションがクリップとクリップの間に置けない]]
