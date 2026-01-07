@@ -9,4 +9,3 @@ Menu:
 フォーカスが[[Source Viewer]]に移ることに注意。
 
 [[Playhead]]でなく選択中の[[Clip]]を[[Source Viewer]]に表示したいときは、[[Flip Clip in Media Pool]]を使う。
-![[Flip Clip in Media Pool]]

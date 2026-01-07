@@ -5,7 +5,9 @@ Hotkey:
 Menu:
   - Clip > Flip Clip in Media Pool
 ---
-タイムライン上で選択中の[[Clip]]を[[Media Pool]]上でも選択する。
+タイムライン上で選択中の[[Clip]]を[[Media Pool]]上で選択する。
 フォーカスはタイムラインに当たったまま。
 
-![[Match Frame]]
+## 関連
+
+[[Match Frame]]

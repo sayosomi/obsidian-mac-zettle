@@ -7,6 +7,7 @@ tags:
 
 ## 読書メモ
 
+[[Keyboard Customization]]
 [[Reset UI Layout]]
 [[Media Pool]]
 	[[Bin]]
@@ -50,3 +51,4 @@ tags:
 
 [[トランジションがクリップとクリップの間に置けない]]
 [[Match Frame]]
+[[Flip Clip in Media Pool]]
