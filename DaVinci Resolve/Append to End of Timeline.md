@@ -5,7 +5,3 @@ Hotkey:
 Menu:
   - Edit > Append to End of Timeline
 ---
-
-## 関連
-
-[[Place on Top (Edit)]]: `=[[Place on Top (Edit)]].Hotkey`
