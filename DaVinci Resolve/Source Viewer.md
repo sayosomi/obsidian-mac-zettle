@@ -18,6 +18,8 @@ Hotkeyを押すとフォーカスを[[Source Viewer]]と[[Timeline Viewer]]の�
 - `Show Audio Waveforms Zoomed in`：オーディオ波形を拡大
 - [[Source Viewer からTimelineにクリップを追加する]]
 
+[[Source Viewer]]が消えてしまった場合は、[[Single Viewer Mode]]をオンにすると再表示される。
+
 ## 関連
 
 [[Timeline Viewer]]
