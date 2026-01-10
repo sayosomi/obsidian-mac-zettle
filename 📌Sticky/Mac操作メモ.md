@@ -22,6 +22,7 @@ cssclasses:
 ファイルを選択して`Enter`
 
 ### 隠しファイルを表示する
+
 `shift + command + .`
 
 ## スクリーンショット
@@ -57,4 +58,3 @@ Finderのウィンドウからフォルダをターミナルにドラッグす�
 
 クリップボード履歴 `command + shift + V`
 カラーピッカー `option + control + shift + C`
-

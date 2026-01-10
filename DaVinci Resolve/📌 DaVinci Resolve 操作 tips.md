@@ -38,6 +38,7 @@ tags:
 - [[Deliver（書き出し）]]
 - [[プロジェクトのバックアップ手順]]
 - [[円形のオーディオスペクトラムを出す]]
+- [[Reactor StandaloneとDaVinci Resolveを連携させる]]
 
 ## パネル
 
