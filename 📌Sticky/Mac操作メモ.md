@@ -25,6 +25,9 @@ cssclasses:
 
 `shift + command + .`
 
+### 選択中のファイルの合計サイズを表示
+`option + command + I` でインスペクタを表示する
+
 ## スクリーンショット
 
 - **全画面**：`⌘ + ⇧ + shift + 3`
