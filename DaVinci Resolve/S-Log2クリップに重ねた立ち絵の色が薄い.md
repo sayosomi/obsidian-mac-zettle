@@ -9,3 +9,6 @@ Gamutノードを足す
 ![[Pasted image 20260116020001.png]]
 
 ![](https://i.gyazo.com/88430f03c34fdfdedf1ba31853571dd2.png)
+
+## 原因
+[[カラーグレーディングのやり方]]
