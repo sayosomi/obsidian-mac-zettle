@@ -54,9 +54,11 @@ Hotkeyの確認、変更ができる。
 - キーの位置関係が [[Custom Zoom (TImeline)]] のスライダーと同じなので覚えやすいはず。
 
 ### Open in Fusion Page (Edit Timeline)
+
 - `control + shift + f`
 - [[りぞりぷと]]でよく使うやつ
 
 #### 合わせて覚えたい Hotkey
+
 - `shift + 4`: Editページに移動
 - `shigt + 5`: Fusionページに移動
