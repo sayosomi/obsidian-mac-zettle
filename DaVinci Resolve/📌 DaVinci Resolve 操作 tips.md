@@ -45,6 +45,7 @@ tags:
 - [[Find in Mediapool]]
 - [[Retime Controls]]
 - [[Track Headerの緑のボタンをオンにしないとクリップが配置できない]]
+- [[注目してほしい場所に丸をつける]]
 
 ## パネル
 
