@@ -43,6 +43,7 @@ tags:
 - [[動画書き出し後にやること]]
 - [[りぞりぷと]]
 - [[Find in Mediapool]]
+- [[Retime Controls]]
 
 ## パネル
 
