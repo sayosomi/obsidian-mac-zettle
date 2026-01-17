@@ -44,6 +44,7 @@ tags:
 - [[りぞりぷと]]
 - [[Find in Mediapool]]
 - [[Retime Controls]]
+- [[Track Headerの緑のボタンをオンにしないとクリップが配置できない]]
 
 ## パネル
 
