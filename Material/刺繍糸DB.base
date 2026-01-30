@@ -20,6 +20,8 @@ views:
       - formula.swatch
       - color
     sort:
+      - property: formula.fileLink
+        direction: ASC
       - property: formula.swatch
         direction: ASC
     columnSize:
