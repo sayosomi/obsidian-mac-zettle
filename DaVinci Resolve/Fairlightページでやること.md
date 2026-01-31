@@ -1,4 +1,5 @@
 https://chatgpt.com/c/696e5828-7640-8324-9eaf-3b18ee9e61bf
+
 ## 0) 前提（トラック構成）
 
 1. **A1＝BGM**
