@@ -1,3 +1,4 @@
+https://chatgpt.com/c/696e5828-7640-8324-9eaf-3b18ee9e61bf
 ## 0) 前提（トラック構成）
 
 1. **A1＝BGM**
@@ -21,7 +22,7 @@
 
 ---
 
-## 2) A4（VOICEGER）の“同一ボイス内のばらつき”を圧縮（Compressor）
+## 2) 
 
 ### 2-1. Dynamics（内蔵）を使う
 
