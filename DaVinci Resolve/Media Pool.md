@@ -19,5 +19,5 @@ Menu:
 
 [[Bin]]
 [[Smart Bin]]
-
+[[Power Bin]]
 [[Relink Media]]
