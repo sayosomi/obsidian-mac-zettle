@@ -14,3 +14,5 @@
 # 選択ツール全般
 ![](https://www.youtube.com/watch?v=rAWi2B4-Pfs)
 
+# スライス
+![](https://youtu.be/dJeeLvPwwOA?si=E7pOMyi8ilCS-eN-&t=494)
