@@ -9,3 +9,8 @@
 # マスク
 ![](https://www.youtube.com/watch?v=8Sb7Lg8QhEc)
 
+![](https://youtu.be/BshI1vmxqRU?si=DitNov2mFOOJuN9d)
+
+# 選択ツール全般
+![](https://www.youtube.com/watch?v=rAWi2B4-Pfs)
+
