@@ -6,3 +6,6 @@
 # オブジェクト選択ツール
 ![](https://youtu.be/0scsoKdb52k?si=x02HdvutJOiGIY41)
 
+# マスク
+![](https://www.youtube.com/watch?v=8Sb7Lg8QhEc)
+
