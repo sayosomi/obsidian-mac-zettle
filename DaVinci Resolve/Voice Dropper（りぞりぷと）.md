@@ -18,6 +18,6 @@ tags:
 - Voice Dropper の口パクボタンで立ち絵分割して口パク処理
 - [[Timeline Playback Resolution]] をオフにする
 - 口パク処理した立ち絵トラックを選択し、右クリック > Render in Place
-    - コーデックはアルファが使えるものを選ぶ（作者は Grass Vally を使っている）
+    - コーデックはProRes 4444（作者は Grass Vally を使っている）
 - [[Auto Track Selector]] を元に戻す 
 - [[Timeline Playback Resolution]] を元に戻す
