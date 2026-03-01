@@ -1,7 +1,7 @@
   [ホーム]
   1) プロトタイプ作成
-  2) ダミー
-  3) ダミー
+  2) ダミー（今後機能追加予定）
+  …
   q) 終了
   > 1
 
@@ -10,13 +10,13 @@
   > Focus
 
   [プロトタイプ作成 ＞ 確認]
-  1) 変更なし
-  2) プロトタイプ名: Focus
-  3) 予定開始時刻: null
-  4) 見積もり（分）: null
-  5) タグ: []
-  6) URI: []
-  7) 頻度: null
+  3) 変更なし
+  4) プロトタイプ名: Focus
+  5) 予定開始時刻: null
+  6) 見積もり（分）: null
+  7) タグ: []
+  8) URI: []
+  9) 頻度: null
   q) 終了 
   > 1
 
@@ -26,50 +26,33 @@
   id: 7c9f...a21
   name: Focus
 
-  1) ホームへ戻る
-  2) 今日のタスクに追加
-  3) プロトタイプ作成を続ける
+  10) ホームへ戻る
+  11) 今日のタスクに追加
+  12) プロトタイプ作成を続ける
   q) 終了 
 
 ----
 ## [プロトタイプ作成 ＞ 確認]の分岐
 
-  1. 1 変更なし
+  1. 変更なし
      POST /prototypes を実行して完了画面へ。
 
-  2. 2 nameを編集
+  2. nameを編集
      nameを再入力 → [プロトタイプ作成 ＞ 確認] に戻る。
 
-  3. 3  plannedStartTimeを編集
+  3. plannedStartTimeを編集
      反映して [プロトタイプ作成 ＞ 確認] に戻る。
 
-  4. 4 dailyEstimateSecondsを編集
+  4. dailyEstimateSecondsを編集
      秒換算して反映 → [プロトタイプ作成 ＞ 確認] に戻る。
 
-  5. 5 tagElementsを編集
-	タグ入力モード（Enterのみで終了）
-	    タグ #1:
-	    > deep-work
-	    タグ #2:
-	    > 趣味
-	    タグ #3:
-        >
-	  → [プロトタイプ作成 ＞ 確認] に戻る。
+  5. tagElementsを編集
 
-  5. 6 urlElementsを編集
-    URI入力モード（Enterのみで終了）
-        URI #1:
-        > https://example.com/focus
-        URI #2:
-        > urn:example:focus
-        URI #3:
-	→[プロトタイプ作成 ＞ 確認]に戻る
+  6. urlElementsを編集
 
-  6. 7 frequencyを編集
+
+  7. frequencyを編集
      頻度サブメニューへ（none/daily/weekday/monthly...）→ 決定後 [プロトタイプ作成 ＞ 確認] に戻る。
-  7. q 終了
-     即終了（保存なし）。
-
 ----
 ## 頻度サブメニュー
 
