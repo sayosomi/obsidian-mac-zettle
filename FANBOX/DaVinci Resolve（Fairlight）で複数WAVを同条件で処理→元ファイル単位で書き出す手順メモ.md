@@ -83,7 +83,7 @@
 
 - **File format：BWAV**（WAVでもOK）
 - **Sample rate：Same as project**
-- **Bit depth：24**
+- **Bit depth：16**
 - **Channel format：Mono か Stereo（素材に合わせる）**
     - ※`Multi mono` は意図がない限り避ける（L/Rが別扱いになることがある）
 
