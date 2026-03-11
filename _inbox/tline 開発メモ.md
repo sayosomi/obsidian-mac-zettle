@@ -9,7 +9,7 @@ prototypeId: 98928542-4ea3-4231-828f-47aacbeb30c3
 - [x] セッション中断エンドポイントを追加。next targetをそのデイリータスクにする。 ✅ 2026-03-11
 - [x] psql "$DATABASE_URL" -f db/migrations/0012_add_next_target_overrides.sql ✅ 2026-03-11
 - [ ] デイリータスクCLI
-- [ ] [ホーム]に収容予定時刻を出す（用API改修）
+- [ ] [ホーム]に終了予定時刻を出す（用API改修）
 - [ ] [[セッション中断]]
 - [ ] [デイリータスク > 設定]画面
 - [ ] [タグ]画面
