@@ -7,7 +7,7 @@ prototypeId: 98928542-4ea3-4231-828f-47aacbeb30c3
 - [x] `残り見積もり（分）: 20`のような表示を`残り見積もり: 20m`のように修正したい。 ✅ 2026-03-11
 - [x] next targetを新規テーブルで持つ。セッション中断フラグのようなものをnext targetテーブルに含める。 ✅ 2026-03-11
 - [x] セッション中断エンドポイントを追加。next targetをそのデイリータスクにする。 ✅ 2026-03-11
-- [ ] psql "$DATABASE_URL" -f db/migrations/0012_add_next_target_overrides.sql
+- [x] psql "$DATABASE_URL" -f db/migrations/0012_add_next_target_overrides.sql ✅ 2026-03-11
 - [ ] デイリータスクCLI
 - [ ] [[ セッション中断]]
 - [ ] [デイリータスク > 設定]画面
