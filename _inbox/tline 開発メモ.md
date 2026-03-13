@@ -10,6 +10,7 @@ prototypeId: 98928542-4ea3-4231-828f-47aacbeb30c3
 - [x] psql "$DATABASE_URL" -f db/migrations/0012_add_next_target_overrides.sql ✅ 2026-03-11
 - [x] [ホーム]に終了予定時刻を出す（用API改修） ✅ 2026-03-12
 - [x] 行が長くてあふれるのを直す ✅ 2026-03-13
+- [ ] ?キーのヒントが出ないのを直す
 - [ ] idの桁数を直す
 - [ ] デイリータスクCLI
 - [ ] [[セッション中断]]
