@@ -25,4 +25,4 @@ views:
       - property: formula.swatch
         direction: ASC
     columnSize:
-      formula.fileLink: 137
+      formula.fileLink: 359
