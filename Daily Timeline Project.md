@@ -4,6 +4,7 @@
 - [x] 日付移動の導線 ✅ 2026-05-19
 - [x] URLでToday画面とTask画面を分ける。特定の日付に直でアクセスできるURLも作りたい。 ✅ 2026-05-19
 - [x] Timelineアイテムのdurationを秒まで表示して ✅ 2026-05-19
+- [ ] planとEntryのdurationの差分を表示
 - [ ] タスクの色ピッカーを実装
 - [ ] Durationが固定値なのは困る
 - [ ] plan add画面のTaskを選択式から自由入力に
