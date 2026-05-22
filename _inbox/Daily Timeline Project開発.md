@@ -23,7 +23,7 @@
 - [x] Timelineの各カードから、Tasksページの該当タスクに飛ぶ機能が欲しい。UI案を出して ✅ 2026-05-21
 - [x] Githubの草風の表示 ✅ 2026-05-21
 - [x] Taskのソートに更新日を追加 ✅ 2026-05-21
-- [ ] +Taskボタンを+Planボタンと同様フロートに
+- [x] +Taskボタンを+Planボタンと同様フロートに
 - [ ] TaskのDuration defaultとStart defaultに過去の統計値をセットできるボタンを追加。Duration defaultには1Entryあたりではなく、1日あたりの統計値を使う
 - [ ] Taskのソートが開始時刻順のときに限り、Timelineと同UIで並び替えられるように
 - [ ] Taskに頻度を追加
