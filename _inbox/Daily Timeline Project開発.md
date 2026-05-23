@@ -24,7 +24,8 @@
 - [x] Githubの草風の表示 ✅ 2026-05-21
 - [x] Taskのソートに更新日を追加 ✅ 2026-05-21
 - [x] +Taskボタンを+Planボタンと同様フロートに
-- [ ] TaskのDuration defaultとStart defaultに過去の統計値をセットできるボタンを追加。Duration defaultには1Entryあたりではなく、1日あたりの統計値を使う
+- [ ] TaskのDuration defaultに過去の統計値をセットできる機能を追加。Duration defaultには1Entryあたりではなく、1日あたりの統計値を使う。どんな統計値がいいと思う？1つではなく複数から選ぶ方式にするのもよいと思う。
+- [ ] Start defaultにも
 - [ ] Taskのソートが開始時刻順のときに限り、Timelineと同UIで並び替えられるように
 - [ ] Taskに頻度を追加
 - [ ] タスク開始/終了時に音を鳴らす
