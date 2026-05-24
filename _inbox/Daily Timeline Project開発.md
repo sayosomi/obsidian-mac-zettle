@@ -26,6 +26,7 @@
 - [x] +Taskボタンを+Planボタンと同様フロートに
 - [ ] TaskのDuration defaultに過去の統計値をセットできる機能を追加。Duration defaultには1Entryあたりではなく、1日あたりの統計値を使う。どんな統計値がいいと思う？1つではなく複数から選ぶ方式にするのもよいと思う。
 - [ ] Start defaultにも
+- [ ] TaskからPlanに追加する機能
 - [ ] Taskのソートが開始時刻順のときに限り、Timelineと同UIで並び替えられるように
 - [ ] Taskに頻度を追加
 - [ ] タスク開始/終了時に音を鳴らす
