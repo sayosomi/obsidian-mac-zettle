@@ -51,3 +51,4 @@
 - [ ] Taskに頻度を追加
 - [ ] オフ日機能を追加
 - [ ] Taskのソートが開始時刻順のときに限り、Timelineと同UIで並び替えられるように
+- [ ] Edge Functionへリクエストを送信できませんでした。通信状態を確認して再試行してください。 function=get-task-voice-options online=true origin=https://dailytimelineproject.pages.dev cause=TypeError: Failed to fetch
