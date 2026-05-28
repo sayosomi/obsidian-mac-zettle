@@ -53,6 +53,7 @@
 - [ ] [[Supabaseからのメールに対応]]
 - [ ] Planのピン留め機能を追加。ピン留めされたPlanはReschedule時に移動しない
 - [ ] 過去日のTimelineから「+Plan」のボタンを消して
+- [ ] VOICEPEAK辞書機能を追加
 - [ ] TaskのサマリーにGithubの草グラフ風の表示を付けたい
 - [ ] Taskに頻度を追加
 - [ ] オフ日機能を追加
