@@ -50,6 +50,7 @@
 - [ ] @audio にVOICEPEAKずんだもん、東北ずん子の音声を追加したのでアプリ側も対応させて
 - [ ] Task画面の「+Task」ボタンが、Timeline画面からタブで移動したときにフロートにならない。Task画面でリロードすると直る
 - [ ] timeline画面右下のボタンのせいで、下の方のPlanの並び替えハンドルが押せない。改善案を出して
+- [ ] Planを追加しようとした時、Taskのdefault
 - [ ] [[Supabaseからのメールに対応]]
 - [ ] Planのピン留め機能を追加。ピン留めされたPlanはReschedule時に移動しない
 - [ ] 過去日のTimelineから「+Plan」のボタンを消して
