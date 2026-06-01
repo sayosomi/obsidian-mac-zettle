@@ -13,11 +13,12 @@
 - [x] @audio にVOICEPEAKずんだもん、東北ずん子の音声を追加したのでアプリ側も対応させて ✅ 2026-06-01
 - [x] スマホからVOICEPEAK settings のSpeed,Pitchにマイナスの値を入れられない。キーボードのマイナスボタンを押しても無効になる ✅ 2026-06-01
 - [x] Android版のエラー: Edge Functionへリクエストを送信できませんでした。通信状態を確認して再試行してください。 function=get-task-voice-options online=true origin=https://dailytimelineproject.pages.dev cause=TypeError: Failed to fetch ✅ 2026-06-01
-- [ ] Task画面の「+Task」ボタンが、Timeline画面からタブで移動したときにフロートにならない。Task画面でリロードすると直る
+- [x] Task画面の「+Task」ボタンが、Timeline画面からタブで移動したときにフロートにならない。Task画面でリロードすると直る ✅ 2026-06-01
 - [ ] timeline画面右下のボタンのせいで、下の方のPlanの並び替えハンドルが押せない。改善案を出して
 - [ ] Planを追加しようとした時、Taskのdefault startが現在時刻よりも前だった場合、Planのstartを現在時刻以降になるようにして
 - [ ] [[Supabaseからのメールに対応]]
 - [ ] 「A task with this name already exists.」のエラーはモーダル内に出して
+- [ ] VOICEPEAKの辞書機能を実装したい。UI案を出して。
 - [ ] Planのピン留め機能を追加。ピン留めされたPlanはReschedule時に移動しない
 - [ ] 過去日のTimelineから「+Plan」のボタンを消して
 - [ ] VOICEPEAK辞書機能を追加
