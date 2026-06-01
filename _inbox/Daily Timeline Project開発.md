@@ -11,6 +11,7 @@
 - [x] VOICEPEAKずんだもんのsetting初期値をPItch:0.1じゃなくて-0.1にして。負の値です。 ✅ 2026-06-01
 - [x] @audio にVOICEPEAKずんだもん、東北ずん子の音声を追加したのでアプリ側も対応させて ✅ 2026-06-01
 - [ ] スマホからVOICEPEAK settings のSpeed,Pitchにマイナスの値を入れられない。キーボードのマイナスボタンを押しても無効になる
+- [ ] Android版のエラー:
 - [ ] Task画面の「+Task」ボタンが、Timeline画面からタブで移動したときにフロートにならない。Task画面でリロードすると直る
 - [ ] timeline画面右下のボタンのせいで、下の方のPlanの並び替えハンドルが押せない。改善案を出して
 - [ ] Planを追加しようとした時、Taskのdefault startが現在時刻よりも前だった場合、Planのstartを現在時刻以降になるようにして
