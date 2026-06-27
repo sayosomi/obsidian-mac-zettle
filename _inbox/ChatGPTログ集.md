@@ -1,0 +1,1 @@
+[お気持ち言語化 北風と太陽](https://chatgpt.com/share/6a3fba9a-b2a8-83ee-8aa9-f532c70b2789)
