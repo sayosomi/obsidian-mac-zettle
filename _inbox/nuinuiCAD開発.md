@@ -1,8 +1,6 @@
-Add clickable comparison and logical operators to the numeric expression insert tray for conditional groups. Make `> >= < <= == != && ||` easy to insert around the caret or selection, keep the existing measurement/reference flow working, and add focused tests for the new insertion behavior.
 
-if要素の条件に増減単位の欄は不要
 
-- [ ] 長い要素名が構成リスト上で見えない問題の改善案を出して
+- [x] 長い要素名が構成リスト上で見えない問題の改善案を出して ✅ 2026-07-02
 - [x] ifグループの式「曲線AC.長さ > 0」って入れたら評価エラー。比較式は入れられないの？ ><!=とかが使えないと困るよ ✅ 2026-07-01
 - [x] オフセット線 ✅ 2026-06-25
 - [x] canvasに表示されている要素名を非表示にもできるようにして。点も非表示にして線のみ表示できる機能があると良い ✅ 2026-07-01
